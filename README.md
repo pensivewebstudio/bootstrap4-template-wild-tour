@@ -2,11 +2,9 @@
 
 # Bootstrap 4 layouts
 
-This repository is a template for a Bootstrap 4 website with dummy content. It serves as a template reference for different bootstrap 4 layouts or to use as a theme for your site as is. You can see a live demo of the template at: 
-[http://www.github-project-wild-tour.pensivewebstudio.com/]
-(github-project-wild-tour.pensivewebstudio.com/).
+This repository is a template for a Bootstrap 4 website with dummy content. It serves as a template reference for different bootstrap 4 layouts or to use as a theme for your site as is. You can see a live demo of the template at: [github-project-wild-tour.pensivewebstudio.com/](http://www.portfolio-item-smwt.pensivewebstudio.com/).
 
-You can see a live demo of a site that I build using this template at: [http://www.portfolio-item-smwt.pensivewebstudio.com/](portfolio-item-smwt.pensivewebstudio.com/).
+You can see a live demo of a site that I build using this template at: [portfolio-item-smwt.pensivewebstudio.com/](http://www.portfolio-item-smwt.pensivewebstudio.com/).
 
 
 #Structure of the Layouts
