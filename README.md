@@ -2,10 +2,11 @@
 
 # Bootstrap 4 layouts
 
-This repository is a template for a Bootstrap 4 website. It serves as a template reference for different bootstrap 4 layouts or to use as a theme for your site as is. You can see a live demo of the template at: 
+This repository is a template for a Bootstrap 4 website with dummy content. It serves as a template reference for different bootstrap 4 layouts or to use as a theme for your site as is. You can see a live demo of the template at: 
 [http://www.github-project-wild-tour.pensivewebstudio.com/](github-project-wild-tour.pensivewebstudio.com/).
 
 You can see a live demo of a site that I build using this template at: [http://www.portfolio-item-smwt.pensivewebstudio.com/](portfolio-item-smwt.pensivewebstudio.com/).
+
 
 #Structure of the Layouts
 
@@ -98,8 +99,7 @@ The implementation is a single page design where each html article represents a 
 ```
 Most layouts (not the floater layout) also have an optional `<header>`. They should be self-explanatory.
 
+
 #Authors and Contributors
 
 Ray Villalobos: Ray built the template at: [raybo.org/bootstrap4layouts/](http://www.raybo.org/bootstrap4layouts/), which this project is largly based on.
-
-
